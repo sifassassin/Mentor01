@@ -2,7 +2,7 @@
 
 body {
   background-color: #d3dde6;
-  min-height: 100vh;
+  min-height: 95vh;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -26,7 +26,7 @@ body {
   border-radius: 15px;
   margin: auto;
   width: 288px;
-  height: 497px;
+  height: 495px;
 }
 .container>img {
   border-radius: 10px;
